@@ -1,4 +1,4 @@
-#hotdog-clicker/
+hotdog-clicker/
 ├── index.html
 ├── style.css
 ├── script.js
